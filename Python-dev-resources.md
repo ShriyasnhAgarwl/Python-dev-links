@@ -1,3 +1,4 @@
+### These are some resources related to the python development, with flask and docker
 
 - 🎓 Learn Python: https://lnkd.in/eb4ke-9P
 - 🔨 Python Projects: https://lnkd.in/eNWBfNzk
