@@ -10,7 +10,7 @@
 - 🚦 Gunicorn & Nginx with Flask: https://lnkd.in/eWxgTNdB
 - ✅ TDD with Python & Flask: https://lnkd.in/eMjweHuZ
 - 📚 Basic RDBMS: https://lnkd.in/ebkPd8-q
-- 🔍 Learn SQL: https://sqlbolt.com/ & W3Schools.com
+- 🔍 Learn SQL: https://sqlbolt.com/ & www.w3schools.com
 - 🐘 PostgreSQL with Python: https://lnkd.in/esKUqNdt
 - 🎁 Flask App with PostgreSQL: https://lnkd.in/eTzpcwNc
 - 💻 Basics of Bash: https://lnkd.in/eZnG8cP6
